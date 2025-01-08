@@ -1,0 +1,11 @@
+#no env files
+.env
+.env.*
+!.env.example
+
+#no log files
+*.log
+
+#no user related files
+lastupdate.txt
+dailyStats.png
