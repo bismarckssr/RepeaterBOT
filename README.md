@@ -1,4 +1,4 @@
-# RepeaterBOT - 0.1.0-alpha-alpha
+# RepeaterBOT - 0.1.0-alpha
 
 ## Introduction 👋
 RepeaterBOT is a telegram bot created to facilitate the management of ham radio repeaters, especially the digital ones, with resource usage in mind and code simplicity.
