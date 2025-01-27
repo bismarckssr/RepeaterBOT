@@ -1,11 +1,14 @@
-#no env files
+# No env files
 .env
 .env.*
 !.env.example
 
-#no log files
+# No log files
 *.log
 
-#no user related files
+# No user related files
 lastupdate.txt
 dailyStats.png
+
+# Development folder
+.tmp_versions/
